@@ -1,6 +1,6 @@
 # 运行
 VScode + conda
-开始运行：由于 powershell 有一定问题，使用 cdm
+开始运行：由于 powershell 有一定问题，使用 cmd
 ```cmd
 conda activate fastapi-backend
 python -m uvicorn learning:app --reload
